@@ -1,0 +1,42 @@
+.hamburger {
+  padding-right: 6%;
+}
+
+.toggleButton {
+  width: 3rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+  vertical-align: middle;
+}
+
+.toggleButtonBar {
+  width: 100%;
+  height: 0.2rem;
+  background: white;
+  display: block;
+  margin: 0.6rem 0;
+  position: relative;
+  top: 0;
+  transition: all 0.5s ease-in-out 0.01s;
+}
+
+.toggleButtonBarDark {
+  background: black;
+}
+
+.leftCrossBar {
+  top: 12px;
+  transform: rotate(45deg);
+}
+
+.rightCrossBar {
+  top: -12px;
+  transform: rotate(-45deg);
+}
+
+.hide {
+  opacity: 0;
+}

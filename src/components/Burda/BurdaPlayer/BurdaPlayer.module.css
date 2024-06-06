@@ -1,0 +1,40 @@
+.container {
+  padding: 20px 10px 10px 10px;
+  margin: 0 auto;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  width: 80%;
+  background-color: var(--secondary-color);
+  text-align: center;
+}
+
+.container select {
+  background-color: inherit;
+  color: inherit;
+  border-radius: 5px;
+  height: 2rem;
+  font-family: inherit;
+}
+
+.hidden {
+    display: none;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+}
+
+.player button {
+  background: none;
+  font-size: 1.5rem;
+  margin: 0 20px;
+}
+
+.timer {
+  text-align: center;
+}

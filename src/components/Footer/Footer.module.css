@@ -1,0 +1,23 @@
+.footer {
+  background-color: #333;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+.footerContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heart {
+  color: red;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  margin: 0 5px;
+}
+
+.asswuffah {
+  margin-top: 20px;
+  font-size: 80%;
+}

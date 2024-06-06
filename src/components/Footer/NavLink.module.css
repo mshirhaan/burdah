@@ -1,0 +1,7 @@
+.navLink {
+  text-decoration: none;
+  list-style: none;
+  margin: 2px 0;
+  font-weight: 700;
+  cursor: pointer;
+}

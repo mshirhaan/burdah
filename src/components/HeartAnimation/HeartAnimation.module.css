@@ -1,0 +1,31 @@
+/* HeartAnimation.module.css */
+.heart-container {
+  position: relative;
+  display: inline-block;
+}
+
+.text-with-hearts {
+  cursor: pointer;
+  transition: color 0.3s ease;
+  
+}
+
+.heart-icon {
+  position: absolute;
+  top: 100%;
+  transform: translateX(-50%);
+  color: #598562;
+  animation: heartAnimation linear;
+  pointer-events: none; /* Ensure hearts don't interfere with text interaction */
+}
+
+@keyframes heartAnimation {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-100px) scale(1.2);
+  }
+}

@@ -1,0 +1,114 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: url("../../../public/images/madinah.avif") 50% 40% / cover
+    no-repeat;
+}
+
+.light-background {
+  background: url("../../../public/images/madinah.avif") 50% 40% / cover
+    no-repeat;
+  transition: background 0.5s ease;
+}
+
+/* For dark mode */
+.dark-background {
+  background: url("../../../public/images/madinah-night.avif") 50% 50% / cover
+    no-repeat;
+  transition: background 0.5s ease;
+}
+
+.container::before {
+  content: "";
+  background: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+  position: absolute;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1; /* Place the overlay behind the content */
+}
+
+.container::after {
+  content: "";
+  position: absolute;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0; /* Place the background image behind the overlay */
+}
+
+.links {
+  display: flex;
+}
+
+.content {
+  position: relative;
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+  top: 50%;
+  text-align: center;
+  color: white;
+}
+
+.text-cycle {
+  background: linear-gradient(
+    to right,
+    #3498db 10%,
+    #9b59b6 20%,
+    #2ecc71 30%,
+    #f1c40f 40%,
+    #e74c3c 50%,
+    #f39c12 60%,
+    #ffd700 70%,
+    #ff69b4 80%,
+    #1abc9c 90%,
+    #00bcd4 95%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 20s ease-in-out infinite alternate;
+}
+
+@keyframes textShine {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.content h1 {
+  margin: 0;
+}
+
+.content p {
+  margin:10px;
+}
+
+@media screen and (max-width: 40rem) {
+  .content {
+    font-size: 1.5rem;
+  }
+
+  .links {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 37.5rem) {
+  .content {
+    font-size: 1rem;
+  }
+}

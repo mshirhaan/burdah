@@ -1,0 +1,44 @@
+@keyframes slideInFromLeftKeyFrame {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.slideInFromLeft {
+  animation: slideInFromLeftKeyFrame 3s ease;
+}
+
+@keyframes slideInFromRightKeyFrame {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.slideInFromRight {
+  animation: slideInFromRightKeyFrame 2s ease;
+}
+
+@keyframes slideInFromBottomKeyFrame {
+  0% {
+    transform: translateY(50%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slideInFromBottom {
+  animation: slideInFromBottomKeyFrame 2s ease;
+}

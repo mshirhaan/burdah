@@ -1,0 +1,12 @@
+.container {
+  padding: 8rem 20px 0 20px;
+  min-height: 100vh;
+}
+
+.container a {
+  color: #598562;
+}
+
+.container h1 {
+  text-align: center;
+}

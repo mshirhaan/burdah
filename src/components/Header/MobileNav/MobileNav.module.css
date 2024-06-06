@@ -1,0 +1,36 @@
+.mobileNav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index: 101;
+  top: 0;
+  background: white;
+  width: 80%;
+  height: 100vh;
+  left: -100%;
+  transition: left 0.3s ease;
+}
+
+.mobileNavItems {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+}
+
+.navLink {
+  font-size: 1.5rem;
+  color: #536b6d;
+  border-bottom: 5px solid transparent;
+  cursor: pointer;
+}
+
+.navLink:hover {
+  border-bottom: 5px solid var(--primary-color);
+}
+
+.open {
+  left: 0;
+}

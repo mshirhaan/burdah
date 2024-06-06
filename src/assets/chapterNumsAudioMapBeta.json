@@ -1,0 +1,1518 @@
+{
+  "reciters": {
+    "Thwaha Thangal and Shahin Babu": {
+      "id": 1,
+      "name": "Thwaha Thangal and Shahin Babu",
+      "fullAudioUrls": [
+        "https://od.lk/s/NjRfMzgyMDk0NTBf/Burda1.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NTFf/Burda2.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NTJf/Burda3.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NTNf/Burda4.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NTRf/Burda5.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NDNf/Burda6.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NDRf/Burda7.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NDZf/Burda8.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NDhf/Burda9.mp3",
+        "https://od.lk/s/NjRfMzgyMDk0NDJf/Burda10.mp3"
+      ],
+      "audioMapping": {
+        "chapter1": [
+          {
+            "audioStart": 0,
+            "audioEnd": 11
+          },
+          {
+            "audioStart": 16.8,
+            "audioEnd": 32.87
+          },
+          {
+            "audioStart": 33.5,
+            "audioEnd": 49
+          },
+          {
+            "audioStart": 49.7,
+            "audioEnd": 65.7
+          },
+          {
+            "audioStart": 66,
+            "audioEnd": 81
+          },
+          {
+            "audioStart": 82,
+            "audioEnd": 97
+          },
+          {
+            "audioStart": 97.7,
+            "audioEnd": 113
+          },
+          {
+            "audioStart": 129,
+            "audioEnd": 141.6
+          },
+          {
+            "audioStart": 142.3,
+            "audioEnd": 157.34
+          },
+          {
+            "audioStart": 157.6,
+            "audioEnd": 203.5
+          },
+          {
+            "audioStart": 218.5,
+            "audioEnd": 225
+          },
+          {
+            "audioStart": 225.9,
+            "audioEnd": 233
+          },
+          {
+            "audioStart": 233.2,
+            "audioEnd": 240.44
+          },
+          {
+            "audioStart": 240.6,
+            "audioEnd": 246.3
+          }
+        ],
+        "chapter2": [
+          {
+            "audioStart": 0,
+            "audioEnd": 14.76
+          },
+          {
+            "audioStart": 15.1,
+            "audioEnd": 29.55
+          },
+          {
+            "audioStart": 29.9,
+            "audioEnd": 44.3
+          },
+          {
+            "audioStart": 44.6,
+            "audioEnd": 51.66
+          },
+          {
+            "audioStart": 51.9,
+            "audioEnd": 58.92
+          },
+          {
+            "audioStart": 59.1,
+            "audioEnd": 66.14
+          },
+          {
+            "audioStart": 66.3,
+            "audioEnd": 73.31
+          },
+          {
+            "audioStart": 73.5,
+            "audioEnd": 80.96
+          },
+          {
+            "audioStart": 95.4,
+            "audioEnd": 109.84
+          },
+          {
+            "audioStart": 110,
+            "audioEnd": 124.43
+          },
+          {
+            "audioStart": 124.7,
+            "audioEnd": 138.97
+          },
+          {
+            "audioStart": 139.1,
+            "audioEnd": 153.06
+          },
+          {
+            "audioStart": 153.3,
+            "audioEnd": 167
+          },
+          {
+            "audioStart": 181.65,
+            "audioEnd": 195
+          },
+          {
+            "audioStart": 195.6,
+            "audioEnd": 209.3
+          },
+          {
+            "audioStart": 209.5,
+            "audioEnd": 222.98
+          },
+          {
+            "audioStart": 223.1,
+            "audioEnd": 236
+          }
+        ],
+        "chapter3": [
+          {
+            "audioStart": 0,
+            "audioEnd": 13.58
+          },
+          {
+            "audioStart": 13.75,
+            "audioEnd": 27
+          },
+          {
+            "audioStart": 27.5,
+            "audioEnd": 40.84
+          },
+          {
+            "audioStart": 41.1,
+            "audioEnd": 54.4
+          },
+          {
+            "audioStart": 54.7,
+            "audioEnd": 68.07
+          },
+          {
+            "audioStart": 68.25,
+            "audioEnd": 81.92
+          },
+          {
+            "audioStart": 95.75,
+            "audioEnd": 136.34
+          },
+          {
+            "audioStart": 150,
+            "audioEnd": 163.45
+          },
+          {
+            "audioStart": 163.7,
+            "audioEnd": 203.89
+          },
+          {
+            "audioStart": 217.7,
+            "audioEnd": 230.79
+          },
+          {
+            "audioStart": 231,
+            "audioEnd": 244.3
+          },
+          {
+            "audioStart": 244.3,
+            "audioEnd": 257.43
+          },
+          {
+            "audioStart": 257.7,
+            "audioEnd": 270.77
+          },
+          {
+            "audioStart": 271,
+            "audioEnd": 283.9
+          },
+          {
+            "audioStart": 297.8,
+            "audioEnd": 310.96
+          },
+          {
+            "audioStart": 311.1,
+            "audioEnd": 324.31
+          },
+          {
+            "audioStart": 324.5,
+            "audioEnd": 337.62
+          },
+          {
+            "audioStart": 337.9,
+            "audioEnd": 350.1
+          },
+          {
+            "audioStart": 364.5,
+            "audioEnd": 377.71
+          },
+          {
+            "audioStart": 377.8,
+            "audioEnd": 390.9
+          },
+          {
+            "audioStart": 391.2,
+            "audioEnd": 404.35
+          },
+          {
+            "audioStart": 404.5,
+            "audioEnd": 417
+          },
+          {
+            "audioStart": 417.7,
+            "audioEnd": 430.55
+          },
+          {
+            "audioStart": 444.1,
+            "audioEnd": 482.79
+          },
+          {
+            "audioStart": 496.4,
+            "audioEnd": 509.19
+          },
+          {
+            "audioStart": 509.35,
+            "audioEnd": 522.02
+          },
+          {
+            "audioStart": 522.1,
+            "audioEnd": 534.71
+          },
+          {
+            "audioStart": 535,
+            "audioEnd": 547.76
+          },
+          {
+            "audioStart": 547.9,
+            "audioEnd": 560.77
+          },
+          {
+            "audioStart": 560.85,
+            "audioEnd": 573.65
+          },
+          {
+            "audioStart": 573.8,
+            "audioEnd": 586.4
+          }
+        ],
+        "chapter4": [
+          {
+            "audioStart": 0,
+            "audioEnd": 12.92
+          },
+          {
+            "audioStart": 13.1,
+            "audioEnd": 21.76
+          },
+          {
+            "audioStart": 22,
+            "audioEnd": 30.06
+          },
+          {
+            "audioStart": 30.4,
+            "audioEnd": 38
+          },
+          {
+            "audioStart": 38.5,
+            "audioEnd": 46.47
+          },
+          {
+            "audioStart": 46.65,
+            "audioEnd": 54.49
+          },
+          {
+            "audioStart": 54.66,
+            "audioEnd": 62.63
+          },
+          {
+            "audioStart": 62.68,
+            "audioEnd": 70.5
+          },
+          {
+            "audioStart": 78.85,
+            "audioEnd": 86.72
+          },
+          {
+            "audioStart": 86.8,
+            "audioEnd": 94.52
+          },
+          {
+            "audioStart": 94.75,
+            "audioEnd": 102.34
+          },
+          {
+            "audioStart": 102.55,
+            "audioEnd": 110.17
+          },
+          {
+            "audioStart": 110.3,
+            "audioEnd": 117.88
+          },
+          {
+            "audioStart": 118.1,
+            "audioEnd": 125.71
+          }
+        ],
+        "chapter5": [
+          {
+            "audioStart": 0,
+            "audioEnd": 7.69
+          },
+          {
+            "audioStart": 7.9,
+            "audioEnd": 15.32
+          },
+          {
+            "audioStart": 15.4,
+            "audioEnd": 22.5
+          },
+          {
+            "audioStart": 22.6,
+            "audioEnd": 29.73
+          },
+          {
+            "audioStart": 29.9,
+            "audioEnd": 36.72
+          },
+          {
+            "audioStart": 36.9,
+            "audioEnd": 43.75
+          },
+          {
+            "audioStart": 43.9,
+            "audioEnd": 50.75
+          },
+          {
+            "audioStart": 50.9,
+            "audioEnd": 57.62
+          },
+          {
+            "audioStart": 57.8,
+            "audioEnd": 64.51
+          },
+          {
+            "audioStart": 64.7,
+            "audioEnd": 71.2
+          },
+          {
+            "audioStart": 71.45,
+            "audioEnd": 77.91
+          },
+          {
+            "audioStart": 84.9,
+            "audioEnd": 91
+          },
+          {
+            "audioStart": 91.6,
+            "audioEnd": 98.27
+          },
+          {
+            "audioStart": 98.3,
+            "audioEnd": 104.84
+          },
+          {
+            "audioStart": 105,
+            "audioEnd": 111.42
+          },
+          {
+            "audioStart": 111.55,
+            "audioEnd": 118.14
+          },
+          {
+            "audioStart": 118.2,
+            "audioEnd": 124.81
+          }
+        ],
+        "chapter6": [
+          {
+            "audioStart": 0,
+            "audioEnd": 6
+          },
+          {
+            "audioStart": 6.25,
+            "audioEnd": 19.54
+          },
+          {
+            "audioStart": 19.7,
+            "audioEnd": 32.9
+          },
+          {
+            "audioStart": 33.1,
+            "audioEnd": 46.66
+          },
+          {
+            "audioStart": 46.7,
+            "audioEnd": 60
+          },
+          {
+            "audioStart": 60.15,
+            "audioEnd": 73.46
+          },
+          {
+            "audioStart": 73.5,
+            "audioEnd": 86.71
+          },
+          {
+            "audioStart": 100.45,
+            "audioEnd": 106.8
+          },
+          {
+            "audioStart": 106.9,
+            "audioEnd": 113.27
+          },
+          {
+            "audioStart": 113.4,
+            "audioEnd": 119
+          },
+          {
+            "audioStart": 119.4,
+            "audioEnd": 132.45
+          },
+          {
+            "audioStart": 132.5,
+            "audioEnd": 145.49
+          },
+          {
+            "audioStart": 145.6,
+            "audioEnd": 158.49
+          },
+          {
+            "audioStart": 158.6,
+            "audioEnd": 171.58
+          },
+          {
+            "audioStart": 171.7,
+            "audioEnd": 184.57
+          },
+          {
+            "audioStart": 184.65,
+            "audioEnd": 197.47
+          },
+          {
+            "audioStart": 197.6,
+            "audioEnd": 210.59
+          },
+          {
+            "audioStart": 210.7,
+            "audioEnd": 223.7
+          }
+        ],
+        "chapter7": [
+          {
+            "audioStart": 0,
+            "audioEnd": 12.89
+          },
+          {
+            "audioStart": 13.3,
+            "audioEnd": 23.11
+          },
+          {
+            "audioStart": 33,
+            "audioEnd": 42.44
+          },
+          {
+            "audioStart": 42.65,
+            "audioEnd": 52
+          },
+          {
+            "audioStart": 52.2,
+            "audioEnd": 61.56
+          },
+          {
+            "audioStart": 61.7,
+            "audioEnd": 70.97
+          },
+          {
+            "audioStart": 71.1,
+            "audioEnd": 80.47
+          },
+          {
+            "audioStart": 80.55,
+            "audioEnd": 89.9
+          },
+          {
+            "audioStart": 99.3,
+            "audioEnd": 108.47
+          },
+          {
+            "audioStart": 108.6,
+            "audioEnd": 117.67
+          },
+          {
+            "audioStart": 117.8,
+            "audioEnd": 126.88
+          },
+          {
+            "audioStart": 126.9,
+            "audioEnd": 135.91
+          },
+          {
+            "audioStart": 136,
+            "audioEnd": 145.11
+          },
+          {
+            "audioStart": 145.25,
+            "audioEnd": 154.4
+          }
+        ],
+        "chapter8": [
+          {
+            "audioStart": 0,
+            "audioEnd": 9.18
+          },
+          {
+            "audioStart": 9.55,
+            "audioEnd": 18.3
+          },
+          {
+            "audioStart": 18.35,
+            "audioEnd": 27
+          },
+          {
+            "audioStart": 27.15,
+            "audioEnd": 35.95
+          },
+          {
+            "audioStart": 36,
+            "audioEnd": 44.74
+          },
+          {
+            "audioStart": 44.8,
+            "audioEnd": 53.47
+          },
+          {
+            "audioStart": 53.6,
+            "audioEnd": 62.23
+          },
+          {
+            "audioStart": 62.35,
+            "audioEnd": 71.11
+          },
+          {
+            "audioStart": 71.15,
+            "audioEnd": 79.87
+          },
+          {
+            "audioStart": 88.69,
+            "audioEnd": 97.24
+          },
+          {
+            "audioStart": 97.48,
+            "audioEnd": 106.1
+          },
+          {
+            "audioStart": 106.18,
+            "audioEnd": 114.77
+          },
+          {
+            "audioStart": 114.8,
+            "audioEnd": 123.32
+          },
+          {
+            "audioStart": 132.12,
+            "audioEnd": 140.5
+          },
+          {
+            "audioStart": 140.66,
+            "audioEnd": 149.2
+          },
+          {
+            "audioStart": 149.25,
+            "audioEnd": 157.62
+          },
+          {
+            "audioStart": 157.7,
+            "audioEnd": 166
+          },
+          {
+            "audioStart": 166.15,
+            "audioEnd": 174.58
+          },
+          {
+            "audioStart": 183,
+            "audioEnd": 144.41
+          },
+          {
+            "audioStart": 265.15,
+            "audioEnd": 284.96
+          },
+          {
+            "audioStart": 285.5,
+            "audioEnd": 305.51
+          },
+          {
+            "audioStart": 305.7,
+            "audioEnd": 325.52
+          },
+          {
+            "audioStart": 325.9,
+            "audioEnd": 345.58
+          }
+        ],
+        "chapter9": [
+          {
+            "audioStart": 0,
+            "audioEnd": 19.87
+          },
+          {
+            "audioStart": 20,
+            "audioEnd": 37.65
+          },
+          {
+            "audioStart": 37.8,
+            "audioEnd": 54.84
+          },
+          {
+            "audioStart": 55.1,
+            "audioEnd": 72.17
+          },
+          {
+            "audioStart": 72.25,
+            "audioEnd": 89.06
+          },
+          {
+            "audioStart": 106.15,
+            "audioEnd": 122.71
+          },
+          {
+            "audioStart": 122.9,
+            "audioEnd": 139.43
+          },
+          {
+            "audioStart": 139.5,
+            "audioEnd": 147.31
+          },
+          {
+            "audioStart": 147.4,
+            "audioEnd": 155.18
+          },
+          {
+            "audioStart": 155.4,
+            "audioEnd": 163
+          },
+          {
+            "audioStart": 163.25,
+            "audioEnd": 179.42
+          },
+          {
+            "audioStart": 179.5,
+            "audioEnd": 195.37
+          },
+          {
+            "audioStart": 195.5,
+            "audioEnd": 211
+          }
+        ],
+        "chapter10": [
+          {
+            "audioStart": 21.1,
+            "audioEnd": 41.65
+          },
+          {
+            "audioStart": 0,
+            "audioEnd": 21.21
+          },
+          {
+            "audioStart": 41.7,
+            "audioEnd": 62.33
+          },
+          {
+            "audioStart": 62.35,
+            "audioEnd": 82.82
+          },
+          {
+            "audioStart": 82.85,
+            "audioEnd": 102.78
+          },
+          {
+            "audioStart": 103,
+            "audioEnd": 123
+          },
+          {
+            "audioStart": 123.15,
+            "audioEnd": 143.33
+          },
+          {
+            "audioStart": 163.35,
+            "audioEnd": 183.43
+          },
+          {
+            "audioStart": 183.45,
+            "audioEnd": 203.8
+          },
+          {
+            "audioStart": 203.85,
+            "audioEnd": 224.1
+          },
+          {
+            "audioStart": 244.55,
+            "audioEnd": 264.68
+          },
+          {
+            "audioStart": 264.95,
+            "audioEnd": 285.05
+          },
+          {
+            "disabled": true,
+            "audioStart": -1,
+            "audioEnd": -1
+          },
+          {
+            "audioStart": 285,
+            "audioEnd": 325.27
+          },
+          {
+            "audioStart": 344.6,
+            "audioEnd": 365.52
+          },
+          {
+            "audioStart": 365.75,
+            "audioEnd": 386.52
+          },
+          {
+            "audioStart": 407.9,
+            "audioEnd": 428.43
+          },
+          {
+            "audioStart": 386.9,
+            "audioEnd": 407.61
+          }
+        ]
+      }
+    },
+
+    "Ahmed and Yusuf Muzarza": {
+      "id": 2,
+      "name": "Ahmed and Yusuf Muzarza",
+      "fullAudioUrls": [
+        "https://drive.google.com/uc?export=download&id=185kt_a7uMnThYztR84_pHN4xYXWdbZWu",
+        "https://drive.google.com/uc?export=download&id=1xE6jJ4YIjnugdCvPIKlzN0-zoL6ySsxQ",
+        "https://drive.google.com/uc?export=download&id=1NRC7Nx6OWR3Wz2JvPLSI32PetVSqtDI6",
+        "https://drive.google.com/uc?export=download&id=1tQrPtR-b7EQ5fZbFyoqq2rXms08a82Ea",
+        "https://drive.google.com/uc?export=download&id=1oeCINdZnx1pZ3NRZZNVaCRQ2kOxrvBdl",
+        "https://drive.google.com/uc?export=download&id=1tseaojT5L2x0JRCZTCEatkGC7PrwC4kg",
+        "https://drive.google.com/uc?export=download&id=1GQZcTCCtWCE-iCjdxtfYsFRoiJ6xrfR0",
+        "https://drive.google.com/uc?export=download&id=16E9JGw2xaJQu3eYsgGyuvbdSoEcRnUMg",
+        "https://drive.google.com/uc?export=download&id=1W8vn35ZcIYC_Bzir3Wifz5kEvQZ7Vz9v",
+        "https://drive.google.com/uc?export=download&id=1XU8xLtqLfeywZEtn2C2r6lv_NVatHQjU"
+      ],
+      "audioMapping": {
+        "chapter1": [
+          {
+            "audioStart": 0,
+            "audioEnd": 11
+          },
+          {
+            "disabled": true,
+            "audioStart": -1,
+            "audioEnd": -1
+          },
+          {
+            "audioStart": 11.2,
+            "audioEnd": 21.88
+          },
+          {
+            "audioStart": 32.66,
+            "audioEnd": 43.3
+          },
+          {
+            "audioStart": 54,
+            "audioEnd": 65
+          },
+          {
+            "audioStart": 75.5,
+            "audioEnd": 86.1
+          },
+          {
+            "audioStart": 96.8,
+            "audioEnd": 107.41
+          },
+          {
+            "audioStart": 118.15,
+            "audioEnd": 128.73
+          },
+          {
+            "audioStart": 139.49,
+            "audioEnd": 150.22
+          },
+          {
+            "audioStart": 160.83,
+            "audioEnd": 171.6
+          },
+          {
+            "audioStart": 182.19,
+            "audioEnd": 193
+          },
+          {
+            "audioStart": 203.62,
+            "audioEnd": 214
+          },
+          {
+            "audioStart": 224.96,
+            "audioEnd": 235.73
+          },
+          {
+            "audioStart": 246.3,
+            "audioEnd": 257.06
+          }
+        ],
+        "chapter2": [
+          {
+            "audioStart": 0,
+            "audioEnd": 10
+          },
+          {
+            "audioStart": 10.8,
+            "audioEnd": 21.25
+          },
+          {
+            "audioStart": 32.35,
+            "audioEnd": 42.89
+          },
+          {
+            "audioStart": 53.91,
+            "audioEnd": 64.54
+          },
+          {
+            "audioStart": 75.41,
+            "audioEnd": 86.23
+          },
+          {
+            "audioStart": 97.12,
+            "audioEnd": 107.57
+          },
+          {
+            "audioStart": 118.61,
+            "audioEnd": 129.3
+          },
+          {
+            "audioStart": 140.13,
+            "audioEnd": 150.97
+          },
+          {
+            "audioStart": 161.76,
+            "audioEnd": 172.66
+          },
+          {
+            "audioStart": 183.34,
+            "audioEnd": 194.1
+          },
+          {
+            "audioStart": 205.05,
+            "audioEnd": 215.86
+          },
+          {
+            "audioStart": 226.66,
+            "audioEnd": 237.38
+          },
+          {
+            "audioStart": 248.31,
+            "audioEnd": 259.07
+          },
+          {
+            "audioStart": 269.81,
+            "audioEnd": 280.72
+          },
+          {
+            "audioStart": 291.5,
+            "audioEnd": 302.19
+          },
+          {
+            "audioStart": 313.04,
+            "audioEnd": 323.93
+          },
+          {
+            "audioStart": 334.75,
+            "audioEnd": 345.64
+          }
+        ],
+        "chapter3": [
+          {
+            "audioStart": 0,
+            "audioEnd": 8
+          },
+          {
+            "audioStart": 8.2,
+            "audioEnd": 16.48
+          },
+          {
+            "audioStart": 24.69,
+            "audioEnd": 32.94
+          },
+          {
+            "audioStart": 41.22,
+            "audioEnd": 49.52
+          },
+          {
+            "audioStart": 57.77,
+            "audioEnd": 66.11
+          },
+          {
+            "audioStart": 74.42,
+            "audioEnd": 82.7
+          },
+          {
+            "audioStart": 90.94,
+            "audioEnd": 99.25
+          },
+          {
+            "audioStart": 107.53,
+            "audioEnd": 115.93
+          },
+          {
+            "audioStart": 124.25,
+            "audioEnd": 132.42
+          },
+          {
+            "audioStart": 140.7,
+            "audioEnd": 149.05
+          },
+          {
+            "audioStart": 157.29,
+            "audioEnd": 165.62
+          },
+          {
+            "audioStart": 173.96,
+            "audioEnd": 182.18
+          },
+          {
+            "audioStart": 190.45,
+            "audioEnd": 198.74
+          },
+          {
+            "audioStart": 207.02,
+            "audioEnd": 215.32
+          },
+          {
+            "audioStart": 223.64,
+            "audioEnd": 231.98
+          },
+          {
+            "audioStart": 240.26,
+            "audioEnd": 248.45
+          },
+          {
+            "audioStart": 256.73,
+            "audioEnd": 265.04
+          },
+          {
+            "audioStart": 273.26,
+            "audioEnd": 281.64
+          },
+          {
+            "audioStart": 289.95,
+            "audioEnd": 298.23
+          },
+          {
+            "audioStart": 306.51,
+            "audioEnd": 314.91
+          },
+          {
+            "audioStart": 323.08,
+            "audioEnd": 331.43
+          },
+          {
+            "audioStart": 339.59,
+            "audioEnd": 348.04
+          },
+          {
+            "audioStart": 356.11,
+            "audioEnd": 364.65
+          },
+          {
+            "audioStart": 372.74,
+            "audioEnd": 381.13
+          },
+          {
+            "audioStart": 389.3,
+            "audioEnd": 397.69
+          },
+          {
+            "audioStart": 405.94,
+            "audioEnd": 414.28
+          },
+          {
+            "audioStart": 422.48,
+            "audioEnd": 430.96
+          },
+          {
+            "audioStart": 438.99,
+            "audioEnd": 447.37
+          },
+          {
+            "audioStart": 455.62,
+            "audioEnd": 464.08
+          },
+          {
+            "audioStart": 472.19,
+            "audioEnd": 480.58
+          },
+          {
+            "audioStart": 488.91,
+            "audioEnd": 497.24
+          }
+        ],
+        "chapter4": [
+          {
+            "audioStart": 0,
+            "audioEnd": 9
+          },
+          {
+            "audioStart": 9.7,
+            "audioEnd": 19.18
+          },
+          {
+            "audioStart": 28.9,
+            "audioEnd": 38.19
+          },
+          {
+            "audioStart": 48,
+            "audioEnd": 57.4
+          },
+          {
+            "audioStart": 67.3,
+            "audioEnd": 76.74
+          },
+          {
+            "audioStart": 86.49,
+            "audioEnd": 96.0
+          },
+          {
+            "audioStart": 105.7,
+            "audioEnd": 115.18
+          },
+          {
+            "audioStart": 124.92,
+            "audioEnd": 134.3
+          },
+          {
+            "audioStart": 144.1,
+            "audioEnd": 153.58
+          },
+          {
+            "audioStart": 163.35,
+            "audioEnd": 172.78
+          },
+          {
+            "audioStart": 182.54,
+            "audioEnd": 191.91
+          },
+          {
+            "audioStart": 201.73,
+            "audioEnd": 211.16
+          },
+          {
+            "audioStart": 220.9,
+            "audioEnd": 230.3
+          },
+          {
+            "audioStart": 240.12,
+            "audioEnd": 249.55
+          }
+        ],
+        "chapter5": [
+          {
+            "audioStart": 0,
+            "audioEnd": 10
+          },
+          {
+            "audioStart": 10.8,
+            "audioEnd": 21.57
+          },
+          {
+            "audioStart": 32.18,
+            "audioEnd": 42.96
+          },
+          {
+            "audioStart": 53.55,
+            "audioEnd": 64.29
+          },
+          {
+            "audioStart": 75,
+            "audioEnd": 85.99
+          },
+          {
+            "audioStart": 96.36,
+            "audioEnd": 107.22
+          },
+          {
+            "audioStart": 117.79,
+            "audioEnd": 128.5
+          },
+          {
+            "audioStart": 139.11,
+            "audioEnd": 150.01
+          },
+          {
+            "audioStart": 160.49,
+            "audioEnd": 171.33
+          },
+          {
+            "audioStart": 181.85,
+            "audioEnd": 192.72
+          },
+          {
+            "audioStart": 203.18,
+            "audioEnd": 214.21
+          },
+          {
+            "audioStart": 224.57,
+            "audioEnd": 235.35
+          },
+          {
+            "audioStart": 245.93,
+            "audioEnd": 256.85
+          },
+          {
+            "audioStart": 267.4,
+            "audioEnd": 278.15
+          },
+          {
+            "audioStart": 288.75,
+            "audioEnd": 299.48
+          },
+          {
+            "audioStart": 310.08,
+            "audioEnd": 320.84
+          },
+          {
+            "audioStart": 331.48,
+            "audioEnd": 342.24
+          }
+        ],
+        "chapter6": [
+          {
+            "audioStart": 0,
+            "audioEnd": 9
+          },
+          {
+            "audioStart": 9.7,
+            "audioEnd": 19.37
+          },
+          {
+            "audioStart": 29.15,
+            "audioEnd": 38.52
+          },
+          {
+            "audioStart": 48.12,
+            "audioEnd": 57.67
+          },
+          {
+            "audioStart": 67.39,
+            "audioEnd": 77.02
+          },
+          {
+            "audioStart": 86.6,
+            "audioEnd": 96.26
+          },
+          {
+            "audioStart": 105.96,
+            "audioEnd": 115.42
+          },
+          {
+            "audioStart": 125.06,
+            "audioEnd": 134.61
+          },
+          {
+            "audioStart": 144.37,
+            "audioEnd": 153.82
+          },
+          {
+            "audioStart": 163.51,
+            "audioEnd": 173.05
+          },
+          {
+            "audioStart": 182.68,
+            "audioEnd": 192.35
+          },
+          {
+            "audioStart": 201.91,
+            "audioEnd": 211.45
+          },
+          {
+            "audioStart": 221.12,
+            "audioEnd": 230.73
+          },
+          {
+            "audioStart": 240.23,
+            "audioEnd": 249.83
+          },
+          {
+            "audioStart": 259.47,
+            "audioEnd": 269.03
+          },
+          {
+            "audioStart": 278.65,
+            "audioEnd": 288.24
+          },
+          {
+            "audioStart": 297.9,
+            "audioEnd": 307.52
+          },
+          {
+            "audioStart": 317.1,
+            "audioEnd": 326.7
+          }
+        ],
+        "chapter7": [
+          {
+            "audioStart": 0,
+            "audioEnd": 9
+          },
+          {
+            "audioStart": 9.7,
+            "audioEnd": 20.94
+          },
+          {
+            "audioStart": 30.12,
+            "audioEnd": 41.15
+          },
+          {
+            "audioStart": 50.51,
+            "audioEnd": 61.43
+          },
+          {
+            "audioStart": 71.0,
+            "audioEnd": 81.88
+          },
+          {
+            "audioStart": 91.3,
+            "audioEnd": 102.34
+          },
+          {
+            "audioStart": 111.66,
+            "audioEnd": 122.68
+          },
+          {
+            "audioStart": 132.14,
+            "audioEnd": 142.97
+          },
+          {
+            "audioStart": 152.55,
+            "audioEnd": 163.33
+          },
+          {
+            "audioStart": 172.84,
+            "audioEnd": 182.8
+          },
+          {
+            "audioStart": 193.41,
+            "audioEnd": 204.33
+          },
+          {
+            "audioStart": 213.77,
+            "audioEnd": 224.66
+          },
+          {
+            "audioStart": 234.06,
+            "audioEnd": 245.0
+          },
+          {
+            "audioStart": 254.5,
+            "audioEnd": 265.52
+          }
+        ],
+        "chapter8": [
+          {
+            "audioStart": 0,
+            "audioEnd": 8
+          },
+          {
+            "audioStart": 8.3,
+            "audioEnd": 16.47
+          },
+          {
+            "audioStart": 25,
+            "audioEnd": 33.03
+          },
+          {
+            "audioStart": 41.5,
+            "audioEnd": 49.61
+          },
+          {
+            "audioStart": 58.1,
+            "audioEnd": 66.36
+          },
+          {
+            "audioStart": 74.7,
+            "audioEnd": 82.86
+          },
+          {
+            "audioStart": 91.3,
+            "audioEnd": 99.51
+          },
+          {
+            "audioStart": 107.84,
+            "audioEnd": 116.06
+          },
+          {
+            "audioStart": 124.45,
+            "audioEnd": 132.5
+          },
+          {
+            "audioStart": 140.92,
+            "audioEnd": 149.29
+          },
+          {
+            "audioStart": 157.5,
+            "audioEnd": 165.67
+          },
+          {
+            "audioStart": 174.1,
+            "audioEnd": 182.4
+          },
+          {
+            "audioStart": 190.7,
+            "audioEnd": 198.88
+          },
+          {
+            "audioStart": 207.32,
+            "audioEnd": 215.52
+          },
+          {
+            "audioStart": 223.85,
+            "audioEnd": 232
+          },
+          {
+            "audioStart": 240.41,
+            "audioEnd": 248.57
+          },
+          {
+            "audioStart": 256.93,
+            "audioEnd": 265.15
+          },
+          {
+            "audioStart": 273.55,
+            "audioEnd": 281.73
+          },
+          {
+            "audioStart": 290.1,
+            "audioEnd": 298.39
+          },
+          {
+            "audioStart": 306.74,
+            "audioEnd": 315.03
+          },
+          {
+            "audioStart": 323.24,
+            "audioEnd": 331.57
+          },
+          {
+            "audioStart": 339.85,
+            "audioEnd": 348.2
+          },
+          {
+            "audioStart": 356.45,
+            "audioEnd": 364.69
+          }
+        ],
+        "chapter9": [
+          {
+            "audioStart": 0,
+            "audioEnd": 10
+          },
+          {
+            "audioStart": 10.76,
+            "audioEnd": 21.51
+          },
+          {
+            "audioStart": 32.19,
+            "audioEnd": 42.89
+          },
+          {
+            "audioStart": 53.63,
+            "audioEnd": 64.3
+          },
+          {
+            "audioStart": 75.0,
+            "audioEnd": 85.65
+          },
+          {
+            "audioStart": 96.4,
+            "audioEnd": 107.04
+          },
+          {
+            "audioStart": 117.74,
+            "audioEnd": 128.41
+          },
+          {
+            "audioStart": 139.15,
+            "audioEnd": 149.9
+          },
+          {
+            "audioStart": 160.56,
+            "audioEnd": 171.22
+          },
+          {
+            "audioStart": 181.9,
+            "audioEnd": 192.52
+          },
+          {
+            "audioStart": 203.25,
+            "audioEnd": 214
+          },
+          {
+            "audioStart": 224.56,
+            "audioEnd": 235.26
+          },
+          {
+            "audioStart": 246.0,
+            "audioEnd": 256.7
+          }
+        ],
+        "chapter10": [
+          {
+            "audioStart": 0,
+            "audioEnd": 9
+          },
+          {
+            "audioStart": 9.88,
+            "audioEnd": 19.54
+          },
+          {
+            "audioStart": 29.2,
+            "audioEnd": 38.75
+          },
+          {
+            "audioStart": 48.33,
+            "audioEnd": 57.88
+          },
+          {
+            "audioStart": 67.55,
+            "audioEnd": 77.18
+          },
+          {
+            "audioStart": 86.76,
+            "audioEnd": 96.47
+          },
+          {
+            "audioStart": 106.02,
+            "audioEnd": 115.93
+          },
+          {
+            "audioStart": 125.24,
+            "audioEnd": 134.86
+          },
+          {
+            "audioStart": 144.47,
+            "audioEnd": 154.01
+          },
+
+          {
+            "audioStart": 163.55,
+            "audioEnd": 173.82
+          },
+
+          {
+            "audioStart": 182.79,
+            "audioEnd": 192.41
+          },
+          {
+            "disabled": true,
+            "audioStart": -1,
+            "audioEnd": -1
+          },
+          {
+            "audioStart": 202,
+            "audioEnd": 211.64
+          },
+          {
+            "audioStart": 221.15,
+            "audioEnd": 230.74
+          },
+          {
+            "audioStart": 240.39,
+            "audioEnd": 250
+          },
+          {
+            "audioStart": 259.58,
+            "audioEnd": 269.27
+          },
+          {
+            "audioStart": 278.74,
+            "audioEnd": 288.43
+          },
+          {
+            "audioStart": 297.99,
+            "audioEnd": 307.66
+          }
+        ]
+      }
+    }
+  }
+}

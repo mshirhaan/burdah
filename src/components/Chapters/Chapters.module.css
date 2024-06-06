@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  height: 50vh;
+}
+
+.chaptersDescription {
+  padding: 20px;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.5rem;
+  align-items: center;
+}
+
+.chaptersButtonList {
+  list-style: none;
+  padding: 0;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (max-width: 40rem) {
+  .container {
+    height: 100vh;
+  }
+  
+}

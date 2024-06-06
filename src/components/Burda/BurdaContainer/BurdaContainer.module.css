@@ -1,0 +1,56 @@
+.container {
+  padding-top: 6rem;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.container h1 {
+  text-align: center;
+  /* color: var(--primary-color);
+  text-transform: uppercase; */
+}
+
+.chapterTitle {
+  padding: 0 100px;
+}
+
+.chapterTitle h1 {
+  text-transform: none;
+}
+
+@media (max-width: 40rem) {
+  .chapterTitle {
+    padding: 0 40px;
+  }
+}
+
+.text-cycle {
+  background: linear-gradient(
+    to right,
+    #3498db 10%,
+    #9b59b6 20%,
+    #2ecc71 30%,
+    #f1c40f 40%,
+    #e74c3c 50%,
+    #f39c12 60%,
+    #ffd700 70%,
+    #ff69b4 80%,
+    #1abc9c 90%,
+    #00bcd4 95%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 500% auto;
+  animation: textShine 20s ease-in-out infinite alternate;
+}
+
+@keyframes textShine {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}

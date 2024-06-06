@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+:root {
+  --primary-color: #598562;
+  --secondary-color: #fff;
+  /* Add more global color variables as needed */
+}
+
+@font-face {
+  font-family: "Uthmanic";
+  src: url("./assets/fonts/Uthmanic.otf") format("truetype");
+  /* You can also specify other font formats (e.g., woff, woff2) here */
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  color: inherit; /* Inherit the color from the parent element */
+  text-decoration: none; /* Remove the underline */
+  /* Add any other custom styles you want */
+}
+
+.arabic {
+  font-family: "Uthmanic", "Amiri Quran", serif;
+}
+
+.button {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid var(--primary-color); /* Border color */
+  border-radius: 25px; /* Rounded corners */
+  text-decoration: none;
+  color: var(--primary-color); /* Text color */
+  transition: background-color 0.3s; /* Smooth hover effect */
+  margin: 10px; /* Add spacing between buttons */
+  background-color: white;
+}
+
+.buttonDark {
+  background-color: #1f2125;
+  color: #fff;
+}
+
+.button.active {
+  background-color: var(--primary-color); /* Hover background color */
+  color: #fff;
+}
+
+.button:hover {
+  background-color: var(--primary-color); /* Hover background color */
+  color: #fff;
+}
+
+.dark {
+  background-color: #1f2125;
+  color: #fff;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.link:hover {
+  color: var(--primary-color);
+}
+
+.tafseer-heading {
+  text-align: center;
+}
+
+.ala-hadrat {
+  color: #ff0833;
+}
